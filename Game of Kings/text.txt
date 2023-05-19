@@ -1,2 +1,0 @@
-font size: 1.76rem
-background-image: linear-gradient(to left top, yellow, red);
